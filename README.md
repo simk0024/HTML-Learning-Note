@@ -7,11 +7,13 @@ The contents of this project are captured from (W3 Schools)[www.w3schools.com].
 Purpose of doing so is to learn and practise whatever is learned.
 
 ## Chapters
-1. HTML Basic
-2. HTML Elements
-3. HTML Attribute
-4. HTML Headings
-5. HTML Pragraph
-6. HTML Styles
-7. HTML Text Formatting
-8. HTML Quotation and Citation Elements
+01. HTML Basic
+02. HTML Elements
+03. HTML Attribute
+04. HTML Headings
+05. HTML Pragraph
+06. HTML Styles
+07. HTML Text Formatting
+08. HTML Quotation and Citation Elements
+09. HTML Comments
+10. HTML Colors
